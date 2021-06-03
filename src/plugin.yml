@@ -1,0 +1,10 @@
+name : projet de ouf
+version : 1.0
+author : Guams
+main : fr.guams.projetplugin.main
+commands :
+  btd:
+    description: Can give Killer Queen rod
+  alert:
+    description: Broadcast for minecraft server
+    permision: bc.use
